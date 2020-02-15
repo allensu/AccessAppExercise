@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AccessAppExercise</string>
+    <string name="api_error_dialog_title">訊息</string>
+    <string name="api_error_dialog_confirm_ok_btn">確定</string>
+    <string name="api_error_system_message">服務器異常</string>
+
+    <string name="a_users_title">Users</string>
+    <string name="a_user_detail_title">Detail</string>
+</resources>
